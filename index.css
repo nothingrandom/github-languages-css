@@ -27,11 +27,11 @@
   color: #FFFFFF; }
 
 .project__language--asp {
-  background-color: #6a40fd;
+  background-color: #6A40FD;
   color: #FFFFFF; }
 
 .project__language--ats {
-  background-color: #1ac620;
+  background-color: #1AC620;
   color: #000000; }
 
 .project__language--actionscript {
@@ -39,7 +39,7 @@
   color: #FFFFFF; }
 
 .project__language--ada {
-  background-color: #02f88c;
+  background-color: #02F88C;
   color: #000000; }
 
 .project__language--agda {
@@ -59,11 +59,11 @@
   color: #FFFFFF; }
 
 .project__language--arc {
-  background-color: #aa2afe;
+  background-color: #AA2AFE;
   color: #FFFFFF; }
 
 .project__language--aspectj {
-  background-color: #a957b0;
+  background-color: #A957B0;
   color: #FFFFFF; }
 
 .project__language--assembly {
@@ -71,11 +71,11 @@
   color: #FFFFFF; }
 
 .project__language--asymptote {
-  background-color: #4a0c0c;
+  background-color: #4A0C0C;
   color: #FFFFFF; }
 
 .project__language--autohotkey {
-  background-color: #6594b9;
+  background-color: #6594B9;
   color: #000000; }
 
 .project__language--autoit {
@@ -91,11 +91,11 @@
   color: #000000; }
 
 .project__language--blitzmax {
-  background-color: #cd6400;
+  background-color: #CD6400;
   color: #000000; }
 
 .project__language--boo {
-  background-color: #d4bec1;
+  background-color: #D4BEC1;
   color: #000000; }
 
 .project__language--brainfuck {
@@ -111,27 +111,27 @@
   color: #FFFFFF; }
 
 .project__language--cpp {
-  background-color: #f34b7d;
+  background-color: #F34B7D;
   color: #000000; }
 
 .project__language--css {
-  background-color: #563d7c;
+  background-color: #563D7C;
   color: #FFFFFF; }
 
 .project__language--ceylon {
-  background-color: #dfa535;
+  background-color: #DFA535;
   color: #000000; }
 
 .project__language--chapel {
-  background-color: #8dc63f;
+  background-color: #8DC63F;
   color: #000000; }
 
 .project__language--cirru {
-  background-color: #ccccff;
+  background-color: #CCCCFF;
   color: #000000; }
 
 .project__language--clarion {
-  background-color: #db901e;
+  background-color: #DB901E;
   color: #000000; }
 
 .project__language--clean {
@@ -143,7 +143,7 @@
   color: #000000; }
 
 .project__language--clojure {
-  background-color: #db5855;
+  background-color: #DB5855;
   color: #000000; }
 
 .project__language--coffeescript {
@@ -151,11 +151,11 @@
   color: #FFFFFF; }
 
 .project__language--coldfusion {
-  background-color: #ed2cd6;
+  background-color: #ED2CD6;
   color: #FFFFFF; }
 
 .project__language--common-lisp {
-  background-color: #3fb68b;
+  background-color: #3FB68B;
   color: #000000; }
 
 .project__language--common-workflow-language {
@@ -175,7 +175,7 @@
   color: #FFFFFF; }
 
 .project__language--d {
-  background-color: #ba595e;
+  background-color: #BA595E;
   color: #FFFFFF; }
 
 .project__language--dm {
@@ -187,39 +187,39 @@
   color: #FFFFFF; }
 
 .project__language--dataweave {
-  background-color: #003a52;
+  background-color: #003A52;
   color: #FFFFFF; }
 
 .project__language--dockerfile {
-  background-color: #384d54;
+  background-color: #384D54;
   color: #FFFFFF; }
 
 .project__language--dogescript {
-  background-color: #cca760;
+  background-color: #CCA760;
   color: #000000; }
 
 .project__language--dylan {
-  background-color: #6c616e;
+  background-color: #6C616E;
   color: #FFFFFF; }
 
 .project__language--e {
-  background-color: #ccce35;
+  background-color: #CCCE35;
   color: #000000; }
 
 .project__language--ecl {
-  background-color: #8a1267;
+  background-color: #8A1267;
   color: #FFFFFF; }
 
 .project__language--eq {
-  background-color: #a78649;
+  background-color: #A78649;
   color: #000000; }
 
 .project__language--eiffel {
-  background-color: #946d57;
+  background-color: #946D57;
   color: #FFFFFF; }
 
 .project__language--elixir {
-  background-color: #6e4a7e;
+  background-color: #6E4A7E;
   color: #FFFFFF; }
 
 .project__language--elm {
@@ -227,7 +227,7 @@
   color: #000000; }
 
 .project__language--emacs-lisp {
-  background-color: #c065db;
+  background-color: #C065DB;
   color: #000000; }
 
 .project__language--emberscript {
@@ -239,15 +239,15 @@
   color: #FFFFFF; }
 
 .project__language--f-sharp {
-  background-color: #b845fc;
+  background-color: #B845FC;
   color: #FFFFFF; }
 
 .project__language--f* {
-  background-color: #572e30;
+  background-color: #572E30;
   color: #FFFFFF; }
 
 .project__language--flux {
-  background-color: #88ccff;
+  background-color: #88CCFF;
   color: #000000; }
 
 .project__language--factor {
@@ -255,11 +255,11 @@
   color: #FFFFFF; }
 
 .project__language--fancy {
-  background-color: #7b9db4;
+  background-color: #7B9DB4;
   color: #000000; }
 
 .project__language--fantom {
-  background-color: #14253c;
+  background-color: #14253C;
   color: #FFFFFF; }
 
 .project__language--forth {
@@ -267,15 +267,15 @@
   color: #FFFFFF; }
 
 .project__language--fortran {
-  background-color: #4d41b1;
+  background-color: #4D41B1;
   color: #FFFFFF; }
 
 .project__language--freemarker {
-  background-color: #0050b2;
+  background-color: #0050B2;
   color: #FFFFFF; }
 
 .project__language--frege {
-  background-color: #00cafe;
+  background-color: #00CAFE;
   color: #000000; }
 
 .project__language--gdscript {
@@ -283,11 +283,11 @@
   color: #FFFFFF; }
 
 .project__language--game-maker-language {
-  background-color: #71b417;
+  background-color: #71B417;
   color: #000000; }
 
 .project__language--genie {
-  background-color: #fb855d;
+  background-color: #FB855D;
   color: #000000; }
 
 .project__language--gherkin {
@@ -295,11 +295,11 @@
   color: #FFFFFF; }
 
 .project__language--glyph {
-  background-color: #c1ac7f;
+  background-color: #C1AC7F;
   color: #000000; }
 
 .project__language--gnuplot {
-  background-color: #f0a9f0;
+  background-color: #F0A9F0;
   color: #000000; }
 
 .project__language--go {
@@ -311,19 +311,19 @@
   color: #FFFFFF; }
 
 .project__language--gosu {
-  background-color: #82937f;
+  background-color: #82937F;
   color: #000000; }
 
 .project__language--grammatical-framework {
-  background-color: #79aa7a;
+  background-color: #79AA7A;
   color: #000000; }
 
 .project__language--groovy {
-  background-color: #e69f56;
+  background-color: #E69F56;
   color: #000000; }
 
 .project__language--html {
-  background-color: #e34c26;
+  background-color: #E34C26;
   color: #FFFFFF; }
 
 .project__language--hack {
@@ -331,23 +331,23 @@
   color: #000000; }
 
 .project__language--harbour {
-  background-color: #0e60e3;
+  background-color: #0E60E3;
   color: #FFFFFF; }
 
 .project__language--haskell {
-  background-color: #5e5086;
+  background-color: #5E5086;
   color: #FFFFFF; }
 
 .project__language--haxe {
-  background-color: #df7900;
+  background-color: #DF7900;
   color: #000000; }
 
 .project__language--hiveql {
-  background-color: #dce200;
+  background-color: #DCE200;
   color: #000000; }
 
 .project__language--holyc {
-  background-color: #ffefaf;
+  background-color: #FFEFAF;
   color: #000000; }
 
 .project__language--hy {
@@ -355,15 +355,15 @@
   color: #000000; }
 
 .project__language--idl {
-  background-color: #a3522f;
+  background-color: #A3522F;
   color: #FFFFFF; }
 
 .project__language--idris {
-  background-color: #b30000;
+  background-color: #B30000;
   color: #FFFFFF; }
 
 .project__language--io {
-  background-color: #a9188d;
+  background-color: #A9188D;
   color: #FFFFFF; }
 
 .project__language--ioke {
@@ -379,15 +379,15 @@
   color: #000000; }
 
 .project__language--jsoniq {
-  background-color: #40d47e;
+  background-color: #40D47E;
   color: #000000; }
 
 .project__language--java {
-  background-color: #b07219;
+  background-color: #B07219;
   color: #000000; }
 
 .project__language--javascript {
-  background-color: #f1e05a;
+  background-color: #F1E05A;
   color: #000000; }
 
 .project__language--jolie {
@@ -395,11 +395,11 @@
   color: #FFFFFF; }
 
 .project__language--jsonnet {
-  background-color: #0064bd;
+  background-color: #0064BD;
   color: #FFFFFF; }
 
 .project__language--julia {
-  background-color: #a270ba;
+  background-color: #A270BA;
   color: #000000; }
 
 .project__language--jupyter-notebook {
@@ -423,11 +423,11 @@
   color: #FFFFFF; }
 
 .project__language--lolcode {
-  background-color: #cc9900;
+  background-color: #CC9900;
   color: #000000; }
 
 .project__language--lsl {
-  background-color: #3d9970;
+  background-color: #3D9970;
   color: #FFFFFF; }
 
 .project__language--lasso {
@@ -451,11 +451,11 @@
   color: #FFFFFF; }
 
 .project__language--matlab {
-  background-color: #e16737;
+  background-color: #E16737;
   color: #000000; }
 
 .project__language--maxscript {
-  background-color: #00a6a6;
+  background-color: #00A6A6;
   color: #FFFFFF; }
 
 .project__language--mql4 {
@@ -467,7 +467,7 @@
   color: #FFFFFF; }
 
 .project__language--mtml {
-  background-color: #b7e1f4;
+  background-color: #B7E1F4;
   color: #000000; }
 
 .project__language--makefile {
@@ -475,15 +475,15 @@
   color: #FFFFFF; }
 
 .project__language--mask {
-  background-color: #f97732;
+  background-color: #F97732;
   color: #000000; }
 
 .project__language--max {
-  background-color: #c4a79c;
+  background-color: #C4A79C;
   color: #000000; }
 
 .project__language--mercury {
-  background-color: #ff2b2b;
+  background-color: #FF2B2B;
   color: #FFFFFF; }
 
 .project__language--meson {
@@ -491,11 +491,11 @@
   color: #FFFFFF; }
 
 .project__language--metal {
-  background-color: #8f14e9;
+  background-color: #8F14E9;
   color: #FFFFFF; }
 
 .project__language--mirah {
-  background-color: #c7a938;
+  background-color: #C7A938;
   color: #000000; }
 
 .project__language--modula-3 {
@@ -503,7 +503,7 @@
   color: #FFFFFF; }
 
 .project__language--ncl {
-  background-color: #28431f;
+  background-color: #28431F;
   color: #FFFFFF; }
 
 .project__language--nearley {
@@ -511,19 +511,19 @@
   color: #FFFFFF; }
 
 .project__language--nemerle {
-  background-color: #3d3c6e;
+  background-color: #3D3C6E;
   color: #FFFFFF; }
 
 .project__language--netlinx {
-  background-color: #0aa0ff;
+  background-color: #0AA0FF;
   color: #FFFFFF; }
 
 .project__language--netlinxperb {
-  background-color: #747faa;
+  background-color: #747FAA;
   color: #FFFFFF; }
 
 .project__language--netlogo {
-  background-color: #ff6375;
+  background-color: #FF6375;
   color: #000000; }
 
 .project__language--newlisp {
@@ -531,11 +531,11 @@
   color: #000000; }
 
 .project__language--nextflow {
-  background-color: #3ac486;
+  background-color: #3AC486;
   color: #000000; }
 
 .project__language--nim {
-  background-color: #37775b;
+  background-color: #37775B;
   color: #FFFFFF; }
 
 .project__language--nit {
@@ -543,47 +543,47 @@
   color: #FFFFFF; }
 
 .project__language--nix {
-  background-color: #7e7eff;
+  background-color: #7E7EFF;
   color: #FFFFFF; }
 
 .project__language--nu {
-  background-color: #c9df40;
+  background-color: #C9DF40;
   color: #000000; }
 
 .project__language--ocaml {
-  background-color: #3be133;
+  background-color: #3BE133;
   color: #000000; }
 
 .project__language--objective-c {
-  background-color: #438eff;
+  background-color: #438EFF;
   color: #FFFFFF; }
 
 .project__language--objective-cpp {
-  background-color: #6866fb;
+  background-color: #6866FB;
   color: #FFFFFF; }
 
 .project__language--objective-j {
-  background-color: #ff0c5a;
+  background-color: #FF0C5A;
   color: #FFFFFF; }
 
 .project__language--omgrofl {
-  background-color: #cabbff;
+  background-color: #CABBFF;
   color: #000000; }
 
 .project__language--opal {
-  background-color: #f7ede0;
+  background-color: #F7EDE0;
   color: #000000; }
 
 .project__language--oxygene {
-  background-color: #cdd0e3;
+  background-color: #CDD0E3;
   color: #000000; }
 
 .project__language--oz {
-  background-color: #fab738;
+  background-color: #FAB738;
   color: #000000; }
 
 .project__language--p4 {
-  background-color: #7055b5;
+  background-color: #7055B5;
   color: #FFFFFF; }
 
 .project__language--php {
@@ -591,19 +591,19 @@
   color: #FFFFFF; }
 
 .project__language--plsql {
-  background-color: #dad8d8;
+  background-color: #DAD8D8;
   color: #000000; }
 
 .project__language--pan {
-  background-color: #cc0000;
+  background-color: #CC0000;
   color: #FFFFFF; }
 
 .project__language--papyrus {
-  background-color: #6600cc;
+  background-color: #6600CC;
   color: #FFFFFF; }
 
 .project__language--parrot {
-  background-color: #f3ca0a;
+  background-color: #F3CA0A;
   color: #000000; }
 
 .project__language--pascal {
@@ -611,7 +611,7 @@
   color: #000000; }
 
 .project__language--pawn {
-  background-color: #dbb284;
+  background-color: #DBB284;
   color: #000000; }
 
 .project__language--pep8 {
@@ -619,15 +619,15 @@
   color: #000000; }
 
 .project__language--perl {
-  background-color: #0298c3;
+  background-color: #0298C3;
   color: #FFFFFF; }
 
 .project__language--perl-6 {
-  background-color: #0000fb;
+  background-color: #0000FB;
   color: #FFFFFF; }
 
 .project__language--piglatin {
-  background-color: #fcd7de;
+  background-color: #FCD7DE;
   color: #000000; }
 
 .project__language--pike {
@@ -635,15 +635,15 @@
   color: #FFFFFF; }
 
 .project__language--pogoscript {
-  background-color: #d80074;
+  background-color: #D80074;
   color: #FFFFFF; }
 
 .project__language--postscript {
-  background-color: #da291c;
+  background-color: #DA291C;
   color: #FFFFFF; }
 
 .project__language--powerbuilder {
-  background-color: #8f0f8d;
+  background-color: #8F0F8D;
   color: #FFFFFF; }
 
 .project__language--powershell {
@@ -655,11 +655,11 @@
   color: #FFFFFF; }
 
 .project__language--prolog {
-  background-color: #74283c;
+  background-color: #74283C;
   color: #FFFFFF; }
 
 .project__language--propeller-spin {
-  background-color: #7fa2a7;
+  background-color: #7FA2A7;
   color: #000000; }
 
 .project__language--puppet {
@@ -667,7 +667,7 @@
   color: #FFFFFF; }
 
 .project__language--purebasic {
-  background-color: #5a6986;
+  background-color: #5A6986;
   color: #FFFFFF; }
 
 .project__language--purescript {
@@ -679,7 +679,7 @@
   color: #FFFFFF; }
 
 .project__language--qml {
-  background-color: #44a51c;
+  background-color: #44A51C;
   color: #000000; }
 
 .project__language--quake {
@@ -691,35 +691,35 @@
   color: #FFFFFF; }
 
 .project__language--raml {
-  background-color: #77d9fb;
+  background-color: #77D9FB;
   color: #000000; }
 
 .project__language--runoff {
-  background-color: #665a4e;
+  background-color: #665A4E;
   color: #FFFFFF; }
 
 .project__language--racket {
-  background-color: #3c5caa;
+  background-color: #3C5CAA;
   color: #FFFFFF; }
 
 .project__language--ragel {
-  background-color: #9d5200;
+  background-color: #9D5200;
   color: #FFFFFF; }
 
 .project__language--rascal {
-  background-color: #fffaa0;
+  background-color: #FFFAA0;
   color: #000000; }
 
 .project__language--rebol {
-  background-color: #358a5b;
+  background-color: #358A5B;
   color: #FFFFFF; }
 
 .project__language--red {
-  background-color: #f50000;
+  background-color: #F50000;
   color: #FFFFFF; }
 
 .project__language--ren-py {
-  background-color: #ff7f7f;
+  background-color: #FF7F7F;
   color: #000000; }
 
 .project__language--ring {
@@ -727,11 +727,11 @@
   color: #FFFFFF; }
 
 .project__language--roff {
-  background-color: #ecdebe;
+  background-color: #ECDEBE;
   color: #000000; }
 
 .project__language--rouge {
-  background-color: #cc0088;
+  background-color: #CC0088;
   color: #FFFFFF; }
 
 .project__language--ruby {
@@ -739,7 +739,7 @@
   color: #FFFFFF; }
 
 .project__language--rust {
-  background-color: #dea584;
+  background-color: #DEA584;
   color: #000000; }
 
 .project__language--sas {
@@ -751,7 +751,7 @@
   color: #FFFFFF; }
 
 .project__language--srecode-template {
-  background-color: #348a34;
+  background-color: #348A34;
   color: #FFFFFF; }
 
 .project__language--saltstack {
@@ -759,19 +759,19 @@
   color: #FFFFFF; }
 
 .project__language--scala {
-  background-color: #c22d40;
+  background-color: #C22D40;
   color: #FFFFFF; }
 
 .project__language--scheme {
-  background-color: #1e4aec;
+  background-color: #1E4AEC;
   color: #FFFFFF; }
 
 .project__language--self {
-  background-color: #0579aa;
+  background-color: #0579AA;
   color: #FFFFFF; }
 
 .project__language--shell {
-  background-color: #89e051;
+  background-color: #89E051;
   color: #000000; }
 
 .project__language--shen {
@@ -779,11 +779,11 @@
   color: #FFFFFF; }
 
 .project__language--slash {
-  background-color: #007eff;
+  background-color: #007EFF;
   color: #FFFFFF; }
 
 .project__language--slice {
-  background-color: #003fa2;
+  background-color: #003FA2;
   color: #FFFFFF; }
 
 .project__language--smalltalk {
@@ -795,7 +795,7 @@
   color: #FFFFFF; }
 
 .project__language--sourcepawn {
-  background-color: #5c7611;
+  background-color: #5C7611;
   color: #FFFFFF; }
 
 .project__language--squirrel {
@@ -803,19 +803,19 @@
   color: #FFFFFF; }
 
 .project__language--stan {
-  background-color: #b2011d;
+  background-color: #B2011D;
   color: #FFFFFF; }
 
 .project__language--standard-ml {
-  background-color: #dc566d;
+  background-color: #DC566D;
   color: #000000; }
 
 .project__language--supercollider {
-  background-color: #46390b;
+  background-color: #46390B;
   color: #FFFFFF; }
 
 .project__language--swift {
-  background-color: #ffac45;
+  background-color: #FFAC45;
   color: #000000; }
 
 .project__language--systemverilog {
@@ -827,7 +827,7 @@
   color: #000000; }
 
 .project__language--tcl {
-  background-color: #e4cc98;
+  background-color: #E4CC98;
   color: #000000; }
 
 .project__language--tex {
@@ -835,19 +835,19 @@
   color: #FFFFFF; }
 
 .project__language--terra {
-  background-color: #00004c;
+  background-color: #00004C;
   color: #FFFFFF; }
 
 .project__language--turing {
-  background-color: #cf142b;
+  background-color: #CF142B;
   color: #FFFFFF; }
 
 .project__language--typescript {
-  background-color: #2b7489;
+  background-color: #2B7489;
   color: #FFFFFF; }
 
 .project__language--unrealscript {
-  background-color: #a54c4d;
+  background-color: #A54C4D;
   color: #FFFFFF; }
 
 .project__language--vcl {
@@ -855,23 +855,23 @@
   color: #FFFFFF; }
 
 .project__language--vhdl {
-  background-color: #adb2cb;
+  background-color: #ADB2CB;
   color: #000000; }
 
 .project__language--vala {
-  background-color: #fbe5cd;
+  background-color: #FBE5CD;
   color: #000000; }
 
 .project__language--verilog {
-  background-color: #b2b7f8;
+  background-color: #B2B7F8;
   color: #000000; }
 
 .project__language--vim-script {
-  background-color: #199f4b;
+  background-color: #199F4B;
   color: #FFFFFF; }
 
 .project__language--visual-basic {
-  background-color: #945db7;
+  background-color: #945DB7;
   color: #FFFFFF; }
 
 .project__language--volt {
@@ -879,15 +879,15 @@
   color: #FFFFFF; }
 
 .project__language--vue {
-  background-color: #2c3e50;
+  background-color: #2C3E50;
   color: #FFFFFF; }
 
 .project__language--webassembly {
-  background-color: #04133b;
+  background-color: #04133B;
   color: #FFFFFF; }
 
 .project__language--wollok {
-  background-color: #a23738;
+  background-color: #A23738;
   color: #FFFFFF; }
 
 .project__language--x10 {
@@ -899,7 +899,7 @@
   color: #000000; }
 
 .project__language--xquery {
-  background-color: #5232e7;
+  background-color: #5232E7;
   color: #FFFFFF; }
 
 .project__language--xslt {
@@ -919,11 +919,11 @@
   color: #FFFFFF; }
 
 .project__language--zap {
-  background-color: #0d665e;
+  background-color: #0D665E;
   color: #FFFFFF; }
 
 .project__language--zil {
-  background-color: #dc75e5;
+  background-color: #DC75E5;
   color: #000000; }
 
 .project__language--zenscript {
@@ -931,11 +931,11 @@
   color: #FFFFFF; }
 
 .project__language--zephir {
-  background-color: #118f9e;
+  background-color: #118F9E;
   color: #FFFFFF; }
 
 .project__language--zig {
-  background-color: #ec915c;
+  background-color: #EC915C;
   color: #000000; }
 
 .project__language--ec {
@@ -951,19 +951,19 @@
   color: #000000; }
 
 .project__language--ooc {
-  background-color: #b0b77e;
+  background-color: #B0B77E;
   color: #000000; }
 
 .project__language--q {
-  background-color: #0040cd;
+  background-color: #0040CD;
   color: #FFFFFF; }
 
 .project__language--sed {
-  background-color: #64b970;
+  background-color: #64B970;
   color: #000000; }
 
 .project__language--wdl {
-  background-color: #42f1f4;
+  background-color: #42F1F4;
   color: #000000; }
 
 .project__language--wisp {
@@ -971,5 +971,5 @@
   color: #FFFFFF; }
 
 .project__language--xbase {
-  background-color: #403a40;
+  background-color: #403A40;
   color: #FFFFFF; }
