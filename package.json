@@ -1,0 +1,31 @@
+{
+  "name": "github-languages-css",
+  "version": "1.0.0",
+  "description": "Stylesheet for creating colored elements based on a github language class",
+  "main": "index.css",
+  "scripts": {
+    "build": "node-sass index.scss index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nothingrandom/github-languages-css.git"
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "github",
+    "languages",
+    "code",
+    "stylesheets",
+    "browser"
+  ],
+  "author": "Benjamin Hollway <benjamin@nothingrandom.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nothingrandom/github-languages-css/issues"
+  },
+  "homepage": "https://github.com/nothingrandom/github-languages-css#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
