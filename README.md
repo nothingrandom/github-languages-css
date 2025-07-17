@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has been archived in favour of https://github.com/ozh/github-colors
+
 github-languages-css
 ===========
 [![npm](https://img.shields.io/npm/v/github-languages-css.svg)](https://www.npmjs.com/package/github-languages-css)
